@@ -10,5 +10,6 @@
 gitTest2.jsp
 github
 client
+server    
 </body>
 </html>
