@@ -9,6 +9,5 @@
 <body>
 gitTest2.jsp
 github
-workspace
 </body>
 </html>
